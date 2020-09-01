@@ -1,0 +1,94 @@
+-- Merging decision tree log ---
+manifest
+ADDED from D:\DeepLearning Plus Android\A_Guide_to_Running_Tensorflow_Models_on_Android-master\mnistandroid\app\src\main\AndroidManifest.xml:2:1-21:12
+	package
+		ADDED from D:\DeepLearning Plus Android\A_Guide_to_Running_Tensorflow_Models_on_Android-master\mnistandroid\app\src\main\AndroidManifest.xml:3:5-35
+		INJECTED from D:\DeepLearning Plus Android\A_Guide_to_Running_Tensorflow_Models_on_Android-master\mnistandroid\app\src\main\AndroidManifest.xml
+		INJECTED from D:\DeepLearning Plus Android\A_Guide_to_Running_Tensorflow_Models_on_Android-master\mnistandroid\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from D:\DeepLearning Plus Android\A_Guide_to_Running_Tensorflow_Models_on_Android-master\mnistandroid\app\src\main\AndroidManifest.xml
+		INJECTED from D:\DeepLearning Plus Android\A_Guide_to_Running_Tensorflow_Models_on_Android-master\mnistandroid\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from D:\DeepLearning Plus Android\A_Guide_to_Running_Tensorflow_Models_on_Android-master\mnistandroid\app\src\main\AndroidManifest.xml:2:11-69
+	android:versionCode
+		INJECTED from D:\DeepLearning Plus Android\A_Guide_to_Running_Tensorflow_Models_on_Android-master\mnistandroid\app\src\main\AndroidManifest.xml
+		INJECTED from D:\DeepLearning Plus Android\A_Guide_to_Running_Tensorflow_Models_on_Android-master\mnistandroid\app\src\main\AndroidManifest.xml
+application
+ADDED from D:\DeepLearning Plus Android\A_Guide_to_Running_Tensorflow_Models_on_Android-master\mnistandroid\app\src\main\AndroidManifest.xml:5:5-19:19
+MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Users\HP\.android\build-cache\b372a81e5b20587501f03f186dbe17a1a456614c\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\HP\.android\build-cache\11dffd15add32f35ea5ebeabe8593e2420f1f33c\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\HP\.android\build-cache\a194fb5cda3c1239d302979c1de49743114c7fc3\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\HP\.android\build-cache\c250f4add8f515facfe413f1a316b1b0ad4f4a61\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\HP\.android\build-cache\fd24f7d4e7a4ce3caa66905972be1915f769fff2\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\HP\.android\build-cache\62b82009501f4bcf427a3c1354b8fea730c9e7fc\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\HP\.android\build-cache\16e6fca181a06387b44bf417ad25a4b169d8ec00\output\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\HP\.android\build-cache\d13ba23361fe760893b804ff7862b10bf5258d67\output\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\HP\.android\build-cache\49531ba5c09ad5baa32023cf3725a96aedef532c\output\AndroidManifest.xml:29:5-20
+MERGED from [org.tensorflow:tensorflow-android:1.2.0-rc0] C:\Users\HP\.android\build-cache\141cee6dc32332eeade485a854cb334731817d5d\output\AndroidManifest.xml:5:5-6:19
+	android:label
+		ADDED from D:\DeepLearning Plus Android\A_Guide_to_Running_Tensorflow_Models_on_Android-master\mnistandroid\app\src\main\AndroidManifest.xml:8:9-41
+	android:supportsRtl
+		ADDED from D:\DeepLearning Plus Android\A_Guide_to_Running_Tensorflow_Models_on_Android-master\mnistandroid\app\src\main\AndroidManifest.xml:10:9-35
+	android:roundIcon
+		ADDED from D:\DeepLearning Plus Android\A_Guide_to_Running_Tensorflow_Models_on_Android-master\mnistandroid\app\src\main\AndroidManifest.xml:9:9-54
+	android:allowBackup
+		ADDED from D:\DeepLearning Plus Android\A_Guide_to_Running_Tensorflow_Models_on_Android-master\mnistandroid\app\src\main\AndroidManifest.xml:6:9-35
+	android:icon
+		ADDED from D:\DeepLearning Plus Android\A_Guide_to_Running_Tensorflow_Models_on_Android-master\mnistandroid\app\src\main\AndroidManifest.xml:7:9-43
+	android:theme
+		ADDED from D:\DeepLearning Plus Android\A_Guide_to_Running_Tensorflow_Models_on_Android-master\mnistandroid\app\src\main\AndroidManifest.xml:11:9-40
+activity#example.mnistandroid.MainActivity
+ADDED from D:\DeepLearning Plus Android\A_Guide_to_Running_Tensorflow_Models_on_Android-master\mnistandroid\app\src\main\AndroidManifest.xml:12:9-18:20
+	android:screenOrientation
+		ADDED from D:\DeepLearning Plus Android\A_Guide_to_Running_Tensorflow_Models_on_Android-master\mnistandroid\app\src\main\AndroidManifest.xml:12:68-104
+	android:name
+		ADDED from D:\DeepLearning Plus Android\A_Guide_to_Running_Tensorflow_Models_on_Android-master\mnistandroid\app\src\main\AndroidManifest.xml:12:19-67
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from D:\DeepLearning Plus Android\A_Guide_to_Running_Tensorflow_Models_on_Android-master\mnistandroid\app\src\main\AndroidManifest.xml:13:13-17:29
+action#android.intent.action.MAIN
+ADDED from D:\DeepLearning Plus Android\A_Guide_to_Running_Tensorflow_Models_on_Android-master\mnistandroid\app\src\main\AndroidManifest.xml:14:17-69
+	android:name
+		ADDED from D:\DeepLearning Plus Android\A_Guide_to_Running_Tensorflow_Models_on_Android-master\mnistandroid\app\src\main\AndroidManifest.xml:14:25-66
+category#android.intent.category.LAUNCHER
+ADDED from D:\DeepLearning Plus Android\A_Guide_to_Running_Tensorflow_Models_on_Android-master\mnistandroid\app\src\main\AndroidManifest.xml:16:17-77
+	android:name
+		ADDED from D:\DeepLearning Plus Android\A_Guide_to_Running_Tensorflow_Models_on_Android-master\mnistandroid\app\src\main\AndroidManifest.xml:16:27-74
+uses-sdk
+INJECTED from D:\DeepLearning Plus Android\A_Guide_to_Running_Tensorflow_Models_on_Android-master\mnistandroid\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Users\HP\.android\build-cache\b372a81e5b20587501f03f186dbe17a1a456614c\output\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\HP\.android\build-cache\11dffd15add32f35ea5ebeabe8593e2420f1f33c\output\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\HP\.android\build-cache\a194fb5cda3c1239d302979c1de49743114c7fc3\output\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\HP\.android\build-cache\c250f4add8f515facfe413f1a316b1b0ad4f4a61\output\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\HP\.android\build-cache\fd24f7d4e7a4ce3caa66905972be1915f769fff2\output\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\HP\.android\build-cache\62b82009501f4bcf427a3c1354b8fea730c9e7fc\output\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\HP\.android\build-cache\16e6fca181a06387b44bf417ad25a4b169d8ec00\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\HP\.android\build-cache\d13ba23361fe760893b804ff7862b10bf5258d67\output\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\HP\.android\build-cache\49531ba5c09ad5baa32023cf3725a96aedef532c\output\AndroidManifest.xml:21:5-23:58
+	tools:overrideLibrary
+		ADDED from [com.android.support:appcompat-v7:25.3.1] C:\Users\HP\.android\build-cache\b372a81e5b20587501f03f186dbe17a1a456614c\output\AndroidManifest.xml:23:9-75
+	android:targetSdkVersion
+		INJECTED from D:\DeepLearning Plus Android\A_Guide_to_Running_Tensorflow_Models_on_Android-master\mnistandroid\app\src\main\AndroidManifest.xml
+		INJECTED from D:\DeepLearning Plus Android\A_Guide_to_Running_Tensorflow_Models_on_Android-master\mnistandroid\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from D:\DeepLearning Plus Android\A_Guide_to_Running_Tensorflow_Models_on_Android-master\mnistandroid\app\src\main\AndroidManifest.xml
+		INJECTED from D:\DeepLearning Plus Android\A_Guide_to_Running_Tensorflow_Models_on_Android-master\mnistandroid\app\src\main\AndroidManifest.xml
+meta-data#android.support.VERSION
+ADDED from [com.android.support:appcompat-v7:25.3.1] C:\Users\HP\.android\build-cache\b372a81e5b20587501f03f186dbe17a1a456614c\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\HP\.android\build-cache\11dffd15add32f35ea5ebeabe8593e2420f1f33c\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\HP\.android\build-cache\a194fb5cda3c1239d302979c1de49743114c7fc3\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\HP\.android\build-cache\c250f4add8f515facfe413f1a316b1b0ad4f4a61\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\HP\.android\build-cache\fd24f7d4e7a4ce3caa66905972be1915f769fff2\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\HP\.android\build-cache\62b82009501f4bcf427a3c1354b8fea730c9e7fc\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\HP\.android\build-cache\16e6fca181a06387b44bf417ad25a4b169d8ec00\output\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\HP\.android\build-cache\d13ba23361fe760893b804ff7862b10bf5258d67\output\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\HP\.android\build-cache\49531ba5c09ad5baa32023cf3725a96aedef532c\output\AndroidManifest.xml:25:5-27:34
+	android:value
+		ADDED from [com.android.support:appcompat-v7:25.3.1] C:\Users\HP\.android\build-cache\b372a81e5b20587501f03f186dbe17a1a456614c\output\AndroidManifest.xml:27:9-31
+	android:name
+		ADDED from [com.android.support:appcompat-v7:25.3.1] C:\Users\HP\.android\build-cache\b372a81e5b20587501f03f186dbe17a1a456614c\output\AndroidManifest.xml:26:9-47
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+IMPLIED from D:\DeepLearning Plus Android\A_Guide_to_Running_Tensorflow_Models_on_Android-master\mnistandroid\app\src\main\AndroidManifest.xml:2:1-21:12 reason: tensorflow.contrib.android has a targetSdkVersion < 4
+uses-permission#android.permission.READ_PHONE_STATE
+IMPLIED from D:\DeepLearning Plus Android\A_Guide_to_Running_Tensorflow_Models_on_Android-master\mnistandroid\app\src\main\AndroidManifest.xml:2:1-21:12 reason: tensorflow.contrib.android has a targetSdkVersion < 4
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+IMPLIED from D:\DeepLearning Plus Android\A_Guide_to_Running_Tensorflow_Models_on_Android-master\mnistandroid\app\src\main\AndroidManifest.xml:2:1-21:12 reason: tensorflow.contrib.android requested WRITE_EXTERNAL_STORAGE

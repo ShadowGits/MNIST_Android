@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\HP\.android\build-cache\a194fb5cda3c1239d302979c1de49743114c7fc3\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4a26a1154d053ab11aaf4c3967c42a4d66390991">
+        <dex dex="D:\DeepLearning Plus Android\A_Guide_to_Running_Tensorflow_Models_on_Android-master\mnistandroid\app\build\intermediates\pre-dexed\debug\classes_407cb8eaac19c96c637acb9dccbab5e09cdeed3c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\HP\.android\build-cache\b372a81e5b20587501f03f186dbe17a1a456614c\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="150252b33b00274cc868578ade018fda0d43a3eb">
+        <dex dex="D:\DeepLearning Plus Android\A_Guide_to_Running_Tensorflow_Models_on_Android-master\mnistandroid\app\build\intermediates\pre-dexed\debug\classes_6e2b71e5a42495a7298862a448cc3168fc3b60bf.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\HP\.gradle\caches\modules-2\files-2.1\com.android.support\support-annotations\25.3.1\bf8841d29fa39e077730e7a91222c2ce269fa7c9\support-annotations-25.3.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="bf8841d29fa39e077730e7a91222c2ce269fa7c9">
+        <dex dex="D:\DeepLearning Plus Android\A_Guide_to_Running_Tensorflow_Models_on_Android-master\mnistandroid\app\build\intermediates\pre-dexed\debug\support-annotations-25.3.1_5fc0e715bae154bbad86148975cbe9da06dc5750.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\HP\.android\build-cache\fd24f7d4e7a4ce3caa66905972be1915f769fff2\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="052f5f840f21174a3ecf6544130194e2652cbb73">
+        <dex dex="D:\DeepLearning Plus Android\A_Guide_to_Running_Tensorflow_Models_on_Android-master\mnistandroid\app\build\intermediates\pre-dexed\debug\classes_f93034754de93bb346ab52185540b91ea0ac9cb2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\HP\.android\build-cache\16e6fca181a06387b44bf417ad25a4b169d8ec00\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="47635644d0d5c103c1dd8360549eb9ba3225c7d3">
+        <dex dex="D:\DeepLearning Plus Android\A_Guide_to_Running_Tensorflow_Models_on_Android-master\mnistandroid\app\build\intermediates\pre-dexed\debug\classes_29e5fcfad3993b64a2776457f4e17a1c8e0c6a66.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\HP\.android\build-cache\49531ba5c09ad5baa32023cf3725a96aedef532c\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="da27a32db6af8954ee8061537c7d476fcb1df46f">
+        <dex dex="D:\DeepLearning Plus Android\A_Guide_to_Running_Tensorflow_Models_on_Android-master\mnistandroid\app\build\intermediates\pre-dexed\debug\classes_c6e173796269c1186db27ca1495754aef9b864c8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\HP\.android\build-cache\11dffd15add32f35ea5ebeabe8593e2420f1f33c\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="D:\DeepLearning Plus Android\A_Guide_to_Running_Tensorflow_Models_on_Android-master\mnistandroid\app\build\intermediates\pre-dexed\debug\classes_1b2a1121594820989a6dc644223a523135ea7104.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\HP\.android\build-cache\c250f4add8f515facfe413f1a316b1b0ad4f4a61\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="45f697922e6f072daa12f8a2995dc77ab03c11da">
+        <dex dex="D:\DeepLearning Plus Android\A_Guide_to_Running_Tensorflow_Models_on_Android-master\mnistandroid\app\build\intermediates\pre-dexed\debug\classes_ad008aaa124115b453dd64d71d7410a770c1ab4a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\HP\.android\build-cache\141cee6dc32332eeade485a854cb334731817d5d\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="08b7bb0240c9df70b9af7c07496023df477d2640">
+        <dex dex="D:\DeepLearning Plus Android\A_Guide_to_Running_Tensorflow_Models_on_Android-master\mnistandroid\app\build\intermediates\pre-dexed\debug\classes_255e089b8acbedce858cc20d850e68e8d4300717.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\HP\.android\build-cache\62b82009501f4bcf427a3c1354b8fea730c9e7fc\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6ef31f1555bb4cc513ec8d52711365a8b89f3600">
+        <dex dex="D:\DeepLearning Plus Android\A_Guide_to_Running_Tensorflow_Models_on_Android-master\mnistandroid\app\build\intermediates\pre-dexed\debug\classes_000fe43628c6373faf6d7d6fe670bcdd8edcad9a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\HP\.android\build-cache\d13ba23361fe760893b804ff7862b10bf5258d67\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="efb8cb62d47d157c29d1521daac7eefd4cb881ee">
+        <dex dex="D:\DeepLearning Plus Android\A_Guide_to_Running_Tensorflow_Models_on_Android-master\mnistandroid\app\build\intermediates\pre-dexed\debug\classes_0e31b5821eadbfe60bf22dc74f86e07771c6e494.jar" />
+    </item>
+
+</items>

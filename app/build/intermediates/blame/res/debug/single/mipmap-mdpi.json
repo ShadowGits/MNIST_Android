@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "D:\\DeepLearning Plus Android\\A_Guide_to_Running_Tensorflow_Models_on_Android-master\\mnistandroid\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi\\ic_launcher.png",
+        "source": "D:\\DeepLearning Plus Android\\A_Guide_to_Running_Tensorflow_Models_on_Android-master\\mnistandroid\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\DeepLearning Plus Android\\A_Guide_to_Running_Tensorflow_Models_on_Android-master\\mnistandroid\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi\\ic_launcher_round.png",
+        "source": "D:\\DeepLearning Plus Android\\A_Guide_to_Running_Tensorflow_Models_on_Android-master\\mnistandroid\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\HP\\Desktop\\android assets\\A_Guide_to_Running_Tensorflow_Models_on_Android-master\\mnistandroid\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi\\ic_launcher.png",
+        "source": "C:\\Users\\HP\\Desktop\\android assets\\A_Guide_to_Running_Tensorflow_Models_on_Android-master\\mnistandroid\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\HP\\Desktop\\android assets\\A_Guide_to_Running_Tensorflow_Models_on_Android-master\\mnistandroid\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi\\ic_launcher_round.png",
+        "source": "C:\\Users\\HP\\Desktop\\android assets\\A_Guide_to_Running_Tensorflow_Models_on_Android-master\\mnistandroid\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher_round.png"
+    }
+]

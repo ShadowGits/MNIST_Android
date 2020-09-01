@@ -1,0 +1,4 @@
+#Tue Sep 01 18:38:37 IST 2020
+base.0=D\:\\DeepLearning Plus Android\\A_Guide_to_Running_Tensorflow_Models_on_Android-master\\mnistandroid\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\1f\\main
+renamed.0=classes.dex
+file.0=D\:\\DeepLearning Plus Android\\A_Guide_to_Running_Tensorflow_Models_on_Android-master\\mnistandroid\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\1f\\main\\classes.dex
